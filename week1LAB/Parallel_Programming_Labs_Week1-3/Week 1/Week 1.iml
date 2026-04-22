@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/1 - Thread Creation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2 - Thread Priority" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3 - Thread Sleep" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4 - Start vs Run" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/5 - Thread Join" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/6 - Join Between Threads" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
